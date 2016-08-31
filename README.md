@@ -24,7 +24,7 @@ lrwxr-xr-x  1 nicholasf  admin    21B 31 Aug 11:12 lua -> /usr/local/bin/lua5.1
 lrwxr-xr-x  1 nicholasf  admin    27B 31 Aug 11:13 luarocks -> /usr/local/bin/luarocks-5.1
 ```
 
-Please note - Lua5.1 is necessary to take advantage of the performance of (LuaJIT)[http://luajit.org/luajit.html]
+Please note - Lua5.1 is necessary to take advantage of the performance of [LuaJIT](http://luajit.org/luajit.html).
 
 ### Black Magic step
 
