@@ -48,3 +48,6 @@ This work was based from the following code:
 
 * https://github.com/thibaultcha/lua-resty-jit-uuid
 * https://github.com/openresty-io/openresty-scaffold
+
+It was written while working for NewsCorp Australia in 2016. 
+
