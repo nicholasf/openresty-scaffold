@@ -26,7 +26,7 @@ lrwxr-xr-x  1 nicholasf  admin    27B 31 Aug 11:13 luarocks -> /usr/local/bin/lu
 
 Please note - Lua5.1 is necessary to take advantage of the performance of [LuaJIT](http://luajit.org/luajit.html).
 
-### Black Magic step
+### Further hackery
 
 I think most development and testing of OpenResty is done by linux users. I wanted to get this working on OS X, 
 for various reasons.
