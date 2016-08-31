@@ -42,3 +42,9 @@ The starting point of this application includes an example.nginx.conf that relat
 which calls a standard Lua module to perform some addition. The functionality is unit tested with [Busted](https://olivinelabs.com/busted/) 
 and [Test::Nginx](https://github.com/openresty/test-nginx).
 
+## Acknowlegements
+
+This work was based from the following code:
+
+* https://github.com/thibaultcha/lua-resty-jit-uuid
+* https://github.com/openresty-io/openresty-scaffold
