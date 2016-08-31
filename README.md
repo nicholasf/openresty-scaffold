@@ -49,5 +49,9 @@ This work was based from the following code:
 * https://github.com/thibaultcha/lua-resty-jit-uuid
 * https://github.com/openresty-io/openresty-scaffold
 
-It was written while working for NewsCorp Australia in 2016. 
+It was written while working for NewsCorp Australia in 2016.
+
+## License
+
+Copyright (c) 2016 News Corp Australia. Licensed under the MIT license.
 
