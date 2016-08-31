@@ -1,0 +1,3 @@
+# Directory for running nginx, storing logs, etc. (see Makefile - make run commands).
+
+.nginx-run
